@@ -45,7 +45,6 @@ try {
 }catch(Exception $e) {
     echo "Exception reçue : ".$e->getMessage(),"\n";
 }
-
 // Methode doc PHP mail() :
 // $to = $_GET["email"];
 // $subject = "sujet";
